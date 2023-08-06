@@ -1,15 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Aᴡᴇsᴏᴍᴇ+Fɪʟᴛᴇʀ+Pʀᴏ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+TᴀᴍɪʟᴀɴBᴏᴛsZ+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Tᴀᴍɪʟᴀɴ+Lᴏᴠᴇ+♥️+!!!!)</p>
-<p align="center">
-  <img src="https://te.legra.ph/file/12d811d8bd6d19299f369.jpg" alt="Awesome Filter Logo">
-  </p>
-  <h1 align="center">
-    <b>AᴡᴇsᴏᴍᴇFɪʟᴛᴇʀ Pʀᴏ</b>
-    </h1>
-
-👩‍💻 Vᴇʀsɪᴏɴ :- 0.1 ✨
-
-🌟 Fᴏʀᴋ & Sᴛᴀʀ Nᴏᴡ 💥
-
 ## HɪɢʜLɪɢʜᴛ Fᴇᴀᴛᴜʀᴇs
 
 - 🔥Uʀʟ Sʜᴏʀᴛɴᴇʀ Sᴜᴘᴘᴏʀᴛ (ᴀʟʟ sɪᴛᴇs)
@@ -40,10 +28,6 @@
 - `SHORTENER_SITE` 👈 ɢɪᴠᴇ ᴜʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ʟɪɴᴋ 
 - `SHORTENER_API` 👈 ɢᴇᴛ ᴀᴘɪ ғʀᴏᴍ ᴜʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ sᴇᴛᴛɪɴɢs
 - `AUTO_DELETE_SECONDS` 👈 ɢɪᴠᴇ ɪɴ sᴇᴄᴏɴᴅs ғᴏʀᴍᴀᴛ
-
-## Mᴜsᴛ Dᴏ Bᴇғᴏʀᴇ Eᴅɪᴛ Tʜɪs Rᴇᴘᴏ 👇
-
- - 💗 Sᴛᴀʀ Tʜɪs Rᴇᴘᴏ 🌟 - Sᴜᴘᴘᴏʀᴛ TᴀᴍɪʟᴀɴBᴏᴛsZ Cᴏᴍᴍᴜɴɪᴛʏ 💥 -
 
 ## Mᴜsᴛ Cʜᴀɴɢᴇ Tʜɪs Lɪɴᴇ
 
@@ -79,14 +63,6 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
   </p>
   <p>
 </details>  
-<details><summary>Dᴇᴘᴏʟʏ Tᴏ Oᴋᴛᴇᴛᴏ {ᴘᴀɪᴅ}</summary>
-<p>
-<br>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/TamilanBotsZ/AwesomeFilterPro">
-  <img src="https://okteto.com/develop-okteto.svg" alt="deploy-to-okteto">
-  </a>
-  </p>
-  </details>
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴀɪʟᴡᴀʏ {ғʀᴇᴇ}</summary>
 <p>
 <br>
@@ -123,9 +99,6 @@ unban - 🙇ᴜɴʙᴀɴ ᴀɴʏ ᴜsᴇʀ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 link - 🖇️ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
 
-## Cʀᴇᴅɪᴛs
-Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ-Mᴇ](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
-
 ## Tʜᴀɴᴋs Tᴏ 
  - Tʜᴀɴᴋs Tᴏ Mᴇ 🤩
  - Tʜᴀɴᴋs Tᴏ Eᴠᴀ Mᴀʀɪᴇ Tᴇᴀᴍ❣️
@@ -133,6 +106,6 @@ Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ-Mᴇ](htt
 
 ## Dɪsᴄʟᴀᴍɪɴᴇʀ
 
-- Tʜɪs Is OᴘᴇɴSᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Sᴏ Dᴏɴ'ᴛ Sᴇʟʟ Tʜɪs Rᴇᴘᴏ Fᴏʀ Mᴏɴᴇʏ
+- Tʜɪs Is NOT AN OᴘᴇɴSᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 - Pʟᴇᴀsᴇ Dᴏɴ'ᴛ Cʜᴀɴɢᴇ "Uᴘᴅᴀᴛᴇs" Bᴜᴛᴛᴏɴ Lɪɴᴋ
 - Mʏ 1ᴍᴏɴᴛʜ HᴀʀᴅWᴏʀᴋ Sᴏ Pʟᴇᴀsᴇ 'Sᴛᴀʀ' (10 Sᴇᴄ Fᴏʀ Sᴛᴀʀ)
